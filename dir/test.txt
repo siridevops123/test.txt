@@ -1,0 +1,20 @@
+ test.txt 
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <!--<link rel="stylesheet" href="style.css">-->
+        <link rel="icon" src="wood.png">
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <style type="text/css">
+          html, body {min-height: 100%;}
+body {background-size: cover;}
+          body{
+          background: url(https://i.postimg.cc/HkThD7mx/new-years-eve-wallpaper-2024.jpg);
+          background-repeat: no-repeat;}
+          h1 {text-align: left;}
+          h2 {text-align: left;}
+        </style>
+
+</html>
